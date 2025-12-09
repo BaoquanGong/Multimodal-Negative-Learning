@@ -1,3 +1,18 @@
-# Multimodal-Negative-Learning
-This is the official implementation for Multimodal Negative Learning (NeurIPS 2025) 
-Because of server maintenance and data-center renovations, I’m unable to retrieve the code right now. 🔧🏗️😞
+# Multimodal Negative Learning
+
+This is the official implementation of **Multimodal Negative Learning** (NeurIPS 2025).
+
+## Setup
+
+- **Dataset:** MVSA
+- **BERT Model:** `bert-base-uncased`
+
+## Training
+
+To train the model, run:
+
+```bash
+bash train_MVSA_latefusion.sh
+
+
+
