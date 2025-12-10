@@ -24,7 +24,7 @@ bash train_MVSA_latefusion.sh
 
 ## 💾 Checkpoint
 
-The preprocessed **MVSA** dataset can be downloaded from:
+The **MVSA** checkpoints can be downloaded from:
 
   * **Link:** `https://pan.baidu.com/s/1so-Vr4uWgFpXPOswCbnWeg?pwd=8hnu`
 -----
